@@ -1,0 +1,7 @@
+This is a dummy text file.
+Lorem ipsum
+Hello world
+
+This file is the second text file.
+Good night.
+:-) 
