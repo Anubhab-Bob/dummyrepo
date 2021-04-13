@@ -1,1 +1,12 @@
 Hello World!!
+Hello World!!
+
+Changes in 3rd branch
+
+<<<<<<< Updated upstream
+Changes to stash
+=======
+Changes in 3rd branch
+
+Changes to stash
+>>>>>>> Stashed changes

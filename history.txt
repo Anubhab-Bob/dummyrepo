@@ -1,3 +1,5 @@
 This is a new file
 
 Making some new changes in master branch
+
+Making some changes in the nextChapter branch
